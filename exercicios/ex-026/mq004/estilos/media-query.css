@@ -17,7 +17,7 @@
     }
 
     main::after {
-        content: 'Essa impressão foi feita atravez do ww.cursoemvideo.com';
+        content: 'Essa impressão foi feita atravez do www.cursoemvideo.com';
         text-decoration: overline;
     }
 
